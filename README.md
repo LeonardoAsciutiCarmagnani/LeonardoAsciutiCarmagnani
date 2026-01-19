@@ -83,13 +83,13 @@ Atuo com **React + TypeScript** no front-end e **Node.js** no back-end, aplicand
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Langs" />
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoAsciutiCarmagnani&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=LeonardoAsciutiCarmagnani&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="150" alt="Streak Stats" />
 </div>
 
 ---
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/  
-- Email: seuemail@dominio.com
+- LinkedIn: https://www.linkedin.com/le](https://www.linkedin.com/in/leonardo-asciuti-carmagnani/
+- Email: lasciuti.c@gmail.com
