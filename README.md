@@ -7,7 +7,7 @@ São Paulo, Brazil
 Construo aplicações web de ponta a ponta com foco em **performance**, **experiência do usuário** e **arquitetura limpa**.  
 Atuo com **React + TypeScript** no front-end e **Node.js** no back-end, aplicando boas práticas como **validação de dados**, **observabilidade**, **tratamento de erros**, **integrações** e **fluxos assíncronos confiáveis**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/leonardo-asciuti-carmagnani/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/leonardo-asciuti-carmagnani/])
 [![Email](https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white)](mailto:lasciuti.c@gmail.com)
 
 </div>
