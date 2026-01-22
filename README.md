@@ -82,5 +82,5 @@ Atuo com **React + TypeScript** no front-end e **Node.js** no back-end, aplicand
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/le](https://www.linkedin.com/in/leonardo-asciuti-carmagnani/
+- LinkedIn: https://www.linkedin.com/in/leonardo-asciuti-carmagnani/
 - Email: lasciuti.c@gmail.com
